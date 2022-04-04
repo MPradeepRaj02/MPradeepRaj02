@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mpradeepraj02" alt="mpradeepraj02" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/MPradeepRaj02](https://github.com/MPradeepRaj02)
+- 👨‍💻 All of my projects are available at [YouTube](https://www.youtube.com/channel/UCqmC9XrDnoihqqiiCOnPwDg)
 
 - 📝 I regularly write articles on [https://pradeeprajm01.blogspot.com](https://pradeeprajm01.blogspot.com)
 
